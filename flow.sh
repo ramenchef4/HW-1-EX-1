@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # stage changes
-git _
+git add flow.sh
 
 # commit changes
-git _
+git commit -m "these are the changes"
 
 # push changes
-git _
+git push
